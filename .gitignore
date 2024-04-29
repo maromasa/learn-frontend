@@ -130,3 +130,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# @generouted/react-router/plugin generated.
+# https://github.com/oedotme/generouted?tab=readme-ov-file#plugins
+src/router.ts
